@@ -1,5 +1,5 @@
 import { $, $$, expect } from '@wdio/globals';
-import Helpers from '../heplpers/Helpers';
+import Helpers from '../helpers/Helpers';
 
 class SearchItemsPage {
   get searchTitle(): Promise<WebdriverIO.Element> {

@@ -1,4 +1,4 @@
-import Helpers from '../heplpers/Helpers';
+import Helpers from '../helpers/Helpers';
 import { $, browser } from '@wdio/globals';
 
 class HomePage {

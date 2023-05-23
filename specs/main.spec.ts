@@ -1,5 +1,5 @@
-import HomePage from '../pageObjects/HomePage';
-import SearchItemsPage from '../pageObjects/SearchItemsPage';
+import HomePage from '../page-objects/HomePage';
+import SearchItemsPage from '../page-objects/SearchItemsPage';
 import { Item } from '../types/item.types';
 
 import { Parser } from '@json2csv/plainjs';
